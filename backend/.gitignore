@@ -1,0 +1,5 @@
+.keys/
+bin/
+obj/
+**/*DotSettings.user
+*/authorized_key.json

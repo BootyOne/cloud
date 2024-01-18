@@ -1,0 +1,26 @@
+.wrapper{
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10%;
+    background: rgb(242,242,242);
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+.joke {
+    display: flex;
+    text-align: start;
+}
+
+.user {
+    color: red;
+}
